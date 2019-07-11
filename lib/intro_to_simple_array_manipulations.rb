@@ -35,4 +35,5 @@ def using_concat(a1, a2)
 end
 
 def using_insert(array, new_element)
+  array.insert(4, )
 
