@@ -30,7 +30,7 @@ def shift_with_args(array)
   array.shift(2)
 end
 
-def using_contact(a1, a2)
+def using_concact(a1, a2)
   a1.contact(a2)
 end
 
