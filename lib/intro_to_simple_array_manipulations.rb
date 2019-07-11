@@ -31,5 +31,7 @@ def shift_with_args(array)
 end
 
 def using_contact(a1, a2)
-  
+  a1.contact(a2)
+end
+
 
